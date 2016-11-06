@@ -1,0 +1,17 @@
+{
+	"name": "escape",
+	"description": "escape",
+	"repository": "voehl/escape",
+	"private": true,
+	"version": "1.0.0",
+	"author": {
+		"name": "Niklas Vöhl"
+	},
+	"devDependencies": {
+		"mocha": "^3.1.2"
+	},
+	"main": "escape.js",
+	"scripts": {
+		"test": "mocha --ui tdd test"
+	}
+}
